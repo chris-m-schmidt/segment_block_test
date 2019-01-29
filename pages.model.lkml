@@ -1,4 +1,4 @@
-connection: "segment_sources"
+connection: "thelook_events_redshift"
 
 # include all views in this project
 # - include: "*.dashboard.lookml"  # include all dashboards in this project
